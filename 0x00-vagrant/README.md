@@ -1,1 +1,1 @@
-0-hello_ubuntu
+it print operation system name
